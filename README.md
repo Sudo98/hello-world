@@ -1,6 +1,6 @@
 # hello-world
 
-just a test repository
+Just a test repository
 
 Hi mans!
 
